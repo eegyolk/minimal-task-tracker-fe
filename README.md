@@ -4,6 +4,15 @@
 
 The Minimal Task Tracker Front-end app helps users manage their tasks by providing a simple interface to add, search, and categorize tasks based on their status. Tasks can be sorted by different categories such as "Pending", "In Progress", "Completed", and "Incomplete". The app allows users to add new tasks, search tasks by keyword, and update their task statuses.
 
+## Functionality
+
+- **Dashboard**: Displays an overview of the app. (under construction)
+- **Tasks**: Manage tasks by adding new tasks, searching tasks, and categorizing them based on their status (Pending, In Progress, Completed, Incomplete).
+- **Search Tasks**: Search tasks by title or description.
+- **Add Task**: Add new tasks with details such as title, description, user, and status.
+- **Update Task**: Update task status.
+- **Account**: User account settings (under construction).
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -42,15 +51,6 @@ Ensure that you have the following installed:
 
 3. Open the app in your browser:
    - Navigate to `http://localhost:3001` to view the app.
-
-## Functionality
-
-- **Dashboard**: Displays an overview of the app. (under construction)
-- **Tasks**: Manage tasks by adding new tasks, searching tasks, and categorizing them based on their status (Pending, In Progress, Completed, Incomplete).
-- **Search Tasks**: Search tasks by title or description.
-- **Add Task**: Add new tasks with details such as title, description, user, and status.
-- **Update Task**: Update task status.
-- **Account**: User account settings (under construction).
 
 ## Technologies Used
 
