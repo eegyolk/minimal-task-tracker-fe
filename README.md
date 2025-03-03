@@ -12,6 +12,7 @@ Ensure that you have the following installed:
 
 - Node.js (v18 or later)
 - npm or yarn
+- Setup the Minimal Task Tracker API [Click here](https://github.com/eegyolk/minimal-task-tracker-api), before running this front-end app.
 
 ### Installation
 
